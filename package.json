@@ -43,7 +43,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/renvrant/gatsby-mdx-netlify-cms-starter"
+    "url": "https://github.com/madrus/gatsby-mdx-netlify-cms-starter"
   },
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
